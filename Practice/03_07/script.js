@@ -31,3 +31,17 @@ const guitarTwo = {
         this.isActive = true;
     },
 }
+const amplifiers = {
+    name : "Fender Twin Reverb 212",
+    toneAdjustment : {
+        gain : 50,
+        treble : 50,
+        chorus : 50,
+        reverb : 50
+
+    },
+    speakers : {
+        left : "12inch",
+        right : "12inch"
+    }
+}
